@@ -1,0 +1,219 @@
+{
+    "code": 0,
+    "data": {
+        "big_classfiy": [
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "甜点甜品",
+                "icon": "icon-kuaican"
+            },
+            {
+                "name": "超市便利",
+                "icon": "icon-tianmaochaoshi"
+            },
+            {
+                "name": "生鲜果蔬",
+                "icon": "icon-icon-test"
+            },
+            {
+                "name": "滴滴买药",
+                "icon": "icon-a-Courier01"
+            }
+        ],
+        "small_classfiy": [
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "钟表",
+                "icon": "icon-zhongbiao"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "美食",
+                "icon": "icon-meishi"
+            },
+            {
+                "name": "全部分类",
+                "icon": "icon-quanbufenlei"
+            }
+        ],
+        "centen_nav_list": [
+            {
+                "tab": "美团神卷",
+                "data": [
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "会员满减",
+                "data": [
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "评价高分",
+                "data": [
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    }
+                ]
+            },
+            {
+                "tab": "满减配送",
+                "data": [
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    },
+                    {
+                        "title": "烧鸭",
+                        "sales": "13",
+                        "price": "8",
+                        "label": [
+                            "烧鸭打汤，世界一流"
+                        ]
+                    }
+                ]
+            }
+        ]
+    }
+}

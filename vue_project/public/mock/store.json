@@ -1,0 +1,115 @@
+{
+    "code": 0,
+    "data": [
+        {
+            "title": "好吃不上火",
+            "img":"../../src/assets/store.webp",
+            "storeData": [
+                {
+                    "name": "点菜",
+                    "data": {
+                        "content": "点菜",
+                        "items": [
+                            {
+                                "text": "烧鸭",
+                                "children": [
+                                    {
+                                        "pic": "https://img95.699pic.com/photo/60034/3886.jpg_wh860.jpg",
+                                        "title": "招牌烧鸭",
+                                        "num": 0,
+                                        "price": 10,
+                                        "id": 0,
+                                        "add": true
+                                    },
+                                    {
+                                        "pic": "https://img95.699pic.com/photo/60034/3886.jpg_wh860.jpg",
+                                        "title": "特色招牌烧鸭",
+                                        "num": 0,
+                                        "price": 20,
+                                        "id": 1,
+                                        "add": true
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "白切鸡",
+                                "children": [
+                                    {
+                                        "pic": "https://ts1.tc.mm.bing.net/th/id/R-C.1b043b653cc4b451cc3aa3d67654bc1a?rik=WgsAhCOnYRogHw&riu=http%3a%2f%2fpic.ntimg.cn%2ffile%2f20160321%2f5094473_114557621664_2.jpg&ehk=tePuIW3633hA%2felwt9jiIF%2bvS2q0Alwhrj4swuBqhM0%3d&risl=&pid=ImgRaw&r=0",
+                                        "title": "招牌白切鸡",
+                                        "num": 0,
+                                        "price": 8,
+                                        "id": 2,
+                                        "add": true
+                                    },
+                                    {
+                                        "pic": "https://ts1.tc.mm.bing.net/th/id/R-C.1b043b653cc4b451cc3aa3d67654bc1a?rik=WgsAhCOnYRogHw&riu=http%3a%2f%2fpic.ntimg.cn%2ffile%2f20160321%2f5094473_114557621664_2.jpg&ehk=tePuIW3633hA%2felwt9jiIF%2bvS2q0Alwhrj4swuBqhM0%3d&risl=&pid=ImgRaw&r=0",
+                                        "title": "特色招牌白切鸡",
+                                        "num": 0,
+                                        "price": 16,
+                                        "id": 3,
+                                        "add": true
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "叉烧",
+                                "children": [
+                                    {
+                                        "pic": "https://picx.zhimg.com/v2-73aec468f284a50028bd5d70dc4ac636_720w.jpg?source=172ae18b",
+                                        "title": "招牌叉烧",
+                                        "num": 0,
+                                        "price": 9,
+                                        "id": 4,
+                                        "add": true
+                                    },
+                                    {
+                                        "pic": "https://picx.zhimg.com/v2-73aec468f284a50028bd5d70dc4ac636_720w.jpg?source=172ae18b",
+                                        "title": "特色招牌叉烧",
+                                        "num": 0,
+                                        "price": 18,
+                                        "id": 5,
+                                        "add": true
+                                    }
+                                ]
+                            },
+                            {
+                                "text": "空心菜(ong菜)",
+                                "children": [
+                                    {
+                                        "pic": "https://materials.cdn.bcebos.com/images/60131642/819046cd2ee7b796912e7e919a5d717c.jpeg",
+                                        "title": "招牌空心菜",
+                                        "num": 0,
+                                        "price": 7,
+                                        "id": 2,
+                                        "add": true
+                                    },
+                                    {
+                                        "pic": "https://materials.cdn.bcebos.com/images/60131642/819046cd2ee7b796912e7e919a5d717c.jpeg",
+                                        "title": "特色招牌空心菜",
+                                        "num": 0,
+                                        "price": 14,
+                                        "id": 3,
+                                        "add": true
+                                    }
+                                ]
+                            }
+                        ]
+                    }
+                },
+                {
+                    "name": "商家推荐",
+                    "data": {
+                        "content": "商家"
+                    }
+                },
+                {
+                    "name": "评价",
+                    "data": {
+                        "content": "锐评"
+                    }
+                }
+            ]
+        }
+    ]
+}
